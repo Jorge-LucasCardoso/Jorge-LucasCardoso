@@ -6,4 +6,4 @@ Atualmente, meu foco principal é construir uma base sólida em lógica de progr
 ### 📚 O que estou aprendendo no momento:
 - Fundamentos de Backend
 - Versionamento de código com Git/GitHub
-- Python, javascript/nodeJS
+- javascript/nodeJS
